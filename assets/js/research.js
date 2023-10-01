@@ -9,7 +9,7 @@ const research = [
       "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
     conferences:
       "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+    researchYr: 2022,
     citebox: "popup1",
     image: "assets/images/research-page/inteferenceNetwork.png",
     citation: {
@@ -45,7 +45,7 @@ const research = [
     authors: "Nastaran Babanejad, Ameeta Agrawal, Aijun An and Manos Papagelis",
     conferences:
       "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+    researchYr: 2019,
     citebox: "popup3",
     image: "assets/images/research-page/wordRepresentation.png",
     citation: {
@@ -64,7 +64,7 @@ const research = [
       "Yong Shan, Zekang Li, Jinchao Zhang, Fandong Meng, Yang Feng, Cheng Niu and Jie Zhou",
     conferences:
       "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+    researchYr: 2018,
     citebox: "popup4",
     image: "assets/images/research-page/dialogueState.png",
     citation: {
@@ -81,7 +81,7 @@ const research = [
     authors: "Wang, Li and Li, Dong and Zhu, Yousong and Tian, Lu and Shan, Yi",
     conferences:
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
+    researchYr: 2017,
     citebox: "popup5",
     image: "assets/images/research-page/semanticSegmentation.png",
     citation: {
@@ -98,7 +98,7 @@ const research = [
     authors: "Zhang, Kai and Van Gool, Luc and Timofte, Radu",
     conferences:
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
+    researchYr: 2016,
     citebox: "popup6",
     image: "assets/images/research-page/deepNetwork.png",
     citation: {
@@ -116,7 +116,7 @@ const research = [
     authors: "Liu, Yunfei and Li, Yu and You, Shaodi and Lu, Feng",
     conferences:
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
+    researchYr: 2015,
     citebox: "popup7",
     image: "assets/images/research-page/imageDecomposition.png",
     citation: {
@@ -134,7 +134,7 @@ const research = [
       "Qin, Haotong and Gong, Ruihao and Liu, Xianglong and Shen, Mingzhu and Wei, Ziran and Yu, Fengwei and Song, Jingkuan",
     conferences:
       "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
-    researchYr: 2020,
+    researchYr: 2014,
     citebox: "popup8",
     image: "assets/images/research-page/neuralNetworks.jpg",
     citation: {
